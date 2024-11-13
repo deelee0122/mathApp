@@ -32,9 +32,9 @@ st.markdown(
     </style>
     <div class="navbar">Study Room</div>
     <div class="members">
-        <a href="https://example.com/sehyun" target="_blank">Yoo Sehyun</a> | 
+        <a href="https://github.com/Evie217/MathForAI.git" target="_blank">Yoo Sehyun</a> | 
         <a href="https://github.com/deelee0122/mathmatics.git" target="_blank">Lee Hyeri</a> | 
-        <a href="https://example.com/hyein" target="_blank">Seo Hyein</a>
+        <a href="https://github.com/Haileyhaha/mathmatics" target="_blank">Seo Hyein</a>
     </div>
     """,
     unsafe_allow_html=True
