@@ -33,7 +33,7 @@ st.markdown(
     <div class="navbar">Study Room</div>
     <div class="members">
         <a href="https://example.com/sehyun" target="_blank">Yoo Sehyun</a> | 
-        <a href="https://example.com/hyeri" target="_blank">Lee Hyeri</a> | 
+        <a href="https://github.com/deelee0122/mathmatics.git" target="_blank">Lee Hyeri</a> | 
         <a href="https://example.com/hyein" target="_blank">Seo Hyein</a>
     </div>
     """,
